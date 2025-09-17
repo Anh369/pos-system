@@ -1,2 +1,2 @@
-# pos-system
-POS System Spring Boot
+# Pos System
+## Build a production-ready POS platform with React, Spring Boot & MySQL
